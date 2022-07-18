@@ -1,0 +1,589 @@
+{
+    
+  "questions": [
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which company developed the video game &quot;Borderlands&quot;?",
+      "correct_answer": "Gearbox Software",
+      "incorrect_answers": [
+        "2K Games",
+        "Activision",
+        "Rockstar Games"
+      ]
+    },
+    {
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is considered the rarist form of color blindness?",
+      "correct_answer": "Blue",
+      "incorrect_answers": [
+        "Red",
+        "Green",
+        "Purple"
+      ]
+    },
+    {
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which of the following liquids is least viscous? Assume temperature is 25&deg;C.",
+      "correct_answer": "Acetone",
+      "incorrect_answers": [
+        "Water",
+        "Mercury",
+        "Benzene"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "In Kingdom Hearts, how many members does Organization XIII have in total?",
+      "correct_answer": "14",
+      "incorrect_answers": [
+        "10",
+        "13",
+        "12"
+      ]
+    },
+    {
+      "category": "Science: Mathematics",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "In Roman Numerals, what does XL equate to?",
+      "correct_answer": "40",
+      "incorrect_answers": [
+        "60",
+        "15",
+        "90"
+      ]
+    },
+    {
+      "category": "Art",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which artist&rsquo;s studio was known as &#039;The Factory&#039;?",
+      "correct_answer": "Andy Warhol",
+      "incorrect_answers": [
+        "Roy Lichtenstein",
+        "David Hockney",
+        "Peter Blake"
+      ]
+    },
+    {
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the name of the dog that played Toto in the 1939 film &quot;The Wizard of Oz&quot;?",
+      "correct_answer": "Terry",
+      "incorrect_answers": [
+        "Tommy",
+        "Teddy",
+        "Toto"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of the following language families is the most controversial amongst modern linguists?",
+      "correct_answer": "Altaic",
+      "incorrect_answers": [
+        "Sino-Tibetan",
+        "Dravidian",
+        "Indo-European"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In &quot;Clash Royale&quot; what is Arena 4 called?",
+      "correct_answer": "P.E.K.K.A&#039;s Playhouse",
+      "incorrect_answers": [
+        "Barbarian Bowl",
+        "Spell Valley",
+        "Royal Arena"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the name of the final boss in Turok: Dinosaur Hunter?",
+      "correct_answer": "The Campaigner",
+      "incorrect_answers": [
+        "The Primagen",
+        "Oblivion",
+        "Lord Tyrannus"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the unit of currency in Laos?",
+      "correct_answer": "Kip",
+      "incorrect_answers": [
+        "Ruble",
+        "Konra",
+        "Dollar"
+      ]
+    },
+    {
+      "category": "Entertainment: Japanese Anime & Manga",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the name of the stuffed lion in Bleach?",
+      "correct_answer": "Kon",
+      "incorrect_answers": [
+        "Jo",
+        "Urdiu",
+        "Chad"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "A scientific study on peanuts in bars found traces of over 100 unique specimens of urine.",
+      "correct_answer": "False",
+      "incorrect_answers": [
+        "True"
+      ]
+    },
+    {
+      "category": "Art",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Who painted &quot;Swans Reflecting Elephants&quot;, &quot;Sleep&quot;, and &quot;The Persistence of Memory&quot;?",
+      "correct_answer": "Salvador Dali",
+      "incorrect_answers": [
+        "Jackson Pollock",
+        "Vincent van Gogh",
+        "Edgar Degas"
+      ]
+    },
+    {
+      "category": "Animals",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which animal was part of an Russian domestication experiment in 1959?",
+      "correct_answer": "Foxes",
+      "incorrect_answers": [
+        "Pigeons",
+        "Bears",
+        "Alligators"
+      ]
+    },
+    {
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Bohdan Khmelnytsky was which of the following?",
+      "correct_answer": "Leader of the Ukrainian Cossacks",
+      "incorrect_answers": [
+        "General Secretary of the Communist Party of the USSR",
+        "Prince of Wallachia",
+        "Grand Prince of Novgorod"
+      ]
+    },
+    {
+      "category": "Entertainment: Cartoon & Animations",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What Cartoon Network show aired its first episode on November 4th, 2013?",
+      "correct_answer": "Steven Universe",
+      "incorrect_answers": [
+        "Regular Show",
+        "Adventure Time",
+        "The Amazing World of Gumball"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In what year were achivements added to Steam?",
+      "correct_answer": "2007",
+      "incorrect_answers": [
+        "2008",
+        "2009",
+        "2006"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In Need For Speed: Most Wanted (2005), how many people are there to defeat on the blacklist?",
+      "correct_answer": "15",
+      "incorrect_answers": [
+        "5",
+        "10",
+        "20"
+      ]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which of these is the name of a song by Tears for Fears?",
+      "correct_answer": "Shout",
+      "incorrect_answers": [
+        "Scream",
+        "Yell",
+        "Shriek"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In Counter Strike: Global Offensive, what is the code implanted onto the C4 as the Terrorists plant the bomb?",
+      "correct_answer": "7355608",
+      "incorrect_answers": [
+        "7890728",
+        "7256380",
+        "7726354"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "The towns of Brugelette, Arlon and Ath are located in which country?",
+      "correct_answer": "Belgium",
+      "incorrect_answers": [
+        "Andorra",
+        "France",
+        "Luxembourg"
+      ]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which album was released by Kanye West in 2013?",
+      "correct_answer": "Yeezus",
+      "incorrect_answers": [
+        "My Beautiful Dark Twisted Fantasy",
+        "The Life of Pablo",
+        "Watch the Throne"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What city is known as the Rose Capital of the World?",
+      "correct_answer": "Tyler, Texas",
+      "incorrect_answers": [
+        "San Diego, California",
+        "Miami, Florida",
+        "Anaheim, California"
+      ]
+    },
+    {
+      "category": "Entertainment: Film",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "In the movie The Revenant, DiCaprio&#039;s character hunts down the killer of his son.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ]
+    },
+    {
+      "category": "Entertainment: Cartoon & Animations",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "Nickelodeon rejected the pilot to Adventure Time.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ]
+    },
+    {
+      "category": "Politics",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Who was the 45th President of the United States?",
+      "correct_answer": "Donald Trump",
+      "incorrect_answers": [
+        "Barack Obama",
+        "Bill Clinton",
+        "George Bush"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which franchise was NOT featured in the 2015 video game &quot;Lego Dimensions&quot;?",
+      "correct_answer": "Breaking Bad",
+      "incorrect_answers": [
+        "Portal",
+        "Doctor Who",
+        "Back to the Future"
+      ]
+    },
+    {
+      "category": "Entertainment: Books",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In the &quot;Harry Potter&quot; novels, what must a Hogwarts student do to enter the Ravenclaw Common Room?",
+      "correct_answer": "Answer a riddle",
+      "incorrect_answers": [
+        "Rhythmically tap barrels with a wand",
+        "Speak a password",
+        "Knock in sequence"
+      ]
+    },
+    {
+      "category": "Entertainment: Japanese Anime & Manga",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Krusty is the guild master of which guild in &quot;Log Horizon&quot;?",
+      "correct_answer": "D. D. D",
+      "incorrect_answers": [
+        "Silver Sword",
+        "West Wind Brigade",
+        "Oceanic Systems (Marine Agency)"
+      ]
+    },
+    {
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In what year did Kentucky become the 15th state to join the union?",
+      "correct_answer": "1792",
+      "incorrect_answers": [
+        "1782",
+        "1798",
+        "1788"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which of the following is not a character in the Street Fighter series?",
+      "correct_answer": "Mai Shiranui",
+      "incorrect_answers": [
+        "Laura Matsuda",
+        "Sakura Kasugano",
+        "Ibuki"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is a Burgee?",
+      "correct_answer": "A flag",
+      "incorrect_answers": [
+        "A rope",
+        "A window",
+        "A type of food"
+      ]
+    },
+    {
+      "category": "Entertainment: Cartoon & Animations",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "Waylon Smithers from &quot;The Simpsons&quot; was originally black when he first appeared in the series.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ]
+    },
+    {
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which country was an allied power in World War II?",
+      "correct_answer": "Soviet Union",
+      "incorrect_answers": [
+        "Italy",
+        "Germany",
+        "Japan"
+      ]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "The Who&#039;s eponymous line, &quot;Teenage Wasteland&quot;, appears in which of their songs?",
+      "correct_answer": "Baba O&#039; Riley",
+      "incorrect_answers": [
+        "The Seeker",
+        "Won&#039;t Get Fooled Again",
+        "Pinball Wizard"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "The Fiat Multipla is a drivable car in &quot;Forza Horizon 3&quot;.",
+      "correct_answer": "False",
+      "incorrect_answers": [
+        "True"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In Left 4 Dead, which campaign has the protagonists going through a subway in order to reach a hospital for evacuation?",
+      "correct_answer": "No Mercy",
+      "incorrect_answers": [
+        "Subway Sprint",
+        "Hospital Havoc",
+        "Blood Harvest"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is the default name of the Vampire character in &quot;Shining Soul 2&quot;.",
+      "correct_answer": "Bloodstar",
+      "incorrect_answers": [
+        "Sachs",
+        "Dracuul",
+        "Alucard"
+      ]
+    },
+    {
+      "category": "Entertainment: Books",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which is NOT a book in the Harry Potter Series?",
+      "correct_answer": "The House Elf",
+      "incorrect_answers": [
+        "The Chamber of Secrets",
+        "The Prisoner of Azkaban",
+        "The Deathly Hallows"
+      ]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is the first track on the Dave Matthews Band album &quot;Before These Crowded Streets&quot;?",
+      "correct_answer": "Pantala Naga Pampa",
+      "incorrect_answers": [
+        "Stay (Wasting Time)",
+        "Rapunzel",
+        "Don&#039;t Drink The Water"
+      ]
+    },
+    {
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In human biology, a circadium rhythm relates to a period of roughly how many hours?",
+      "correct_answer": "24",
+      "incorrect_answers": [
+        "8",
+        "16",
+        "32"
+      ]
+    },
+    {
+      "category": "Sports",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "In 2008, Usain Bolt set the world record for the 100 meters with one shoelace untied.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "A pasodoble is a type of Italian pasta sauce.",
+      "correct_answer": "False",
+      "incorrect_answers": [
+        "True"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "In the game &quot;Fire Emblem: Shadow Dragon&quot;, what is the central protagonist&#039;s name?",
+      "correct_answer": "Marth",
+      "incorrect_answers": [
+        "Roy",
+        "Eliwood",
+        "Robin"
+      ]
+    },
+    {
+      "category": "Entertainment: Film",
+      "type": "boolean",
+      "difficulty": "hard",
+      "question": "YouTube personality Jenna Marbles served as an executive producer of the film Maximum Ride (2016).",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which Grand Theft Auto (GTA) games have the same setting?",
+      "correct_answer": "GTA V and GTA San Andreas",
+      "incorrect_answers": [
+        "GTA V and GTA Vice City",
+        "GTA IV and GTA San Andreas",
+        "GTA IV and GTA Vice City"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is Laos?",
+      "correct_answer": "Country",
+      "incorrect_answers": [
+        "Region",
+        "River",
+        "City"
+      ]
+    },
+    {
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What was the wifi password given to Stephen Strange in Doctor Strange?",
+      "correct_answer": "Shambala",
+      "incorrect_answers": [
+        "Peace",
+        "Ancient",
+        "Chakra"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which psychopath(s) in Dead Rising 1 gave you the small chainsaw?",
+      "correct_answer": "Adam the Clown",
+      "incorrect_answers": [
+        "Cliff Hudson",
+        "The convicts",
+        "Larry the butcher"
+      ]
+    }
+  ]
+}
